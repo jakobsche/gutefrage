@@ -1,0 +1,17 @@
+object Form1: TForm1
+  Left = 250
+  Height = 375
+  Top = 130
+  Width = 494
+  Caption = 'Form1'
+  ClientHeight = 375
+  ClientWidth = 494
+  OnKeyDown = FormKeyDown
+  LCLVersion = '2.0.2.0'
+  object Shape1: TShape
+    Left = 147
+    Height = 65
+    Top = 43
+    Width = 65
+  end
+end
