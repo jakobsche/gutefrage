@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+ <semantics>
+  <mrow>
+   <mi>f</mi>
+   <mrow>
+    <mrow>
+     <mo fence="true" stretchy="false">(</mo>
+     <mrow>
+      <mi>x</mi>
+     </mrow>
+     <mo fence="true" stretchy="false">)</mo>
+    </mrow>
+    <mo stretchy="false">=</mo>
+    <mroot>
+     <mi>x</mi>
+     <mi>n</mi>
+    </mroot>
+   </mrow>
+  </mrow>
+  <annotation encoding="StarMath 5.0">f( x ) = nroot{n}{x} </annotation>
+ </semantics>
+</math>
