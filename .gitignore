@@ -1,4 +1,7 @@
 backup
+*.bak
+.directory
+treibhausgase
 .DS_Store
 bewegen/bewegen
 bewegen/bewegen.app
